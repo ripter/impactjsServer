@@ -1,0 +1,12 @@
+{
+  "name": "impactJSServer",
+  "version": "0.0.1",
+  "description": "Run game and editor using node.js",
+  "main": "server.js",
+  "author": "Chris Richards",
+  "license": "BSD-2-Clause",
+	"dependencies": {
+		"express": "~3"
+    , "glob": "~3"
+  }
+}
