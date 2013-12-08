@@ -12,6 +12,7 @@ Move the [ImpactJS](http://impactjs.com/) files into this directory.
 copy package.json and server.js to your project's root directory.
 
 
+###Install Dependencies
 ```
 npm install
 ```
